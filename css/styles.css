@@ -1,0 +1,58 @@
+body{
+  background-image: url(../img/background-image.jpg);
+}
+
+
+#struttura{
+  width: 50%;
+  margin: auto;
+}
+/* parte iniziale */
+
+header img{
+  vertical-align: middle;
+}
+strong{
+  color:orange;
+  font-size: 30px;
+}
+hr{
+  color:orange;
+}
+
+/* navigazione */
+
+nav h1 span{
+  background:orange;
+  border-radius: 50%;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+}
+nav h1{
+  color: white;
+}
+
+
+
+/* posta eletronica */
+.row{
+  color: orange;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.row-left{
+  display: inline-block;
+  width: 30%;
+}
+.row-right{
+  display: inline-block;
+  width: 68%;
+
+}
+/* parte finale */
+footer{
+  color: white;
+  text-align: center;
+}
